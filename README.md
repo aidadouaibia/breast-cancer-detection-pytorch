@@ -43,7 +43,7 @@ This project applies a feedforward neural network (ANN) built with PyTorch to cl
 - Training Accuracy: **~98%**
 - Model shows strong ability to distinguish benign vs malignant tumors
 
-## 🚀 Tools & Libraries
+## Tools & Libraries
 
 - Python, NumPy, Pandas, Seaborn, Matplotlib
 - PyTorch
